@@ -1,2 +1,8 @@
 # hello-world
-New GitHub guide repository
+
+
+Brand new to coding,
+don't judge me for doing the welcome guide
+
+
+End
